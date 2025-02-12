@@ -1,4 +1,4 @@
-# 🎬 KCRest - KCiné's REST API (2023)
+# 🎬 KCRest - [KCiné](https://github.com/kenzohj/KCine)'s REST API (2023)
 
 **🇫🇷 Français | [🇬🇧 English below](#-english-version-)**  
 
