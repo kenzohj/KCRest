@@ -8,7 +8,7 @@
 
 **KCRest** est une API REST développée pour l'application mobile [**KCiné**](https://github.com/kenzohj/KCine). Ce projet a été réalisé en **2ᵉ année de BUT Informatique** par :  
 
-- [Corentin Bonjour](https://github.com/CorentinBonjour)  
+- [Corentin Bonjour](https://github.com/corentinbjr)  
 - [Kenzo Hambli](https://github.com/KenzoHJ)
 
 L'API permet d'authentifier les utilisateurs et de récupérer la liste des cinémas à proximité ainsi que les films disponibles et leurs horaires.
@@ -56,7 +56,7 @@ Ce projet a été développé dans un cadre scolaire et n'est pas destiné à un
 
 **KCRest** is a REST API developed for the **KCiné** mobile application. This project was built during our **2nd year of a Computer Science Bachelor’s program (BUT Informatique)** by:  
 
-- [Corentin Bonjour](https://github.com/CorentinBonjour)  
+- [Corentin Bonjour](https://github.com/corentinbjr)  
 - [Kenzo Hambli](https://github.com/KenzoHJ)
 
 The API allows to authenticate users and retrieve nearby cinemas and available movies with their showtimes.
